@@ -1,0 +1,38 @@
+* {
+  font-family: Poppins;
+  background-color: salmon;
+}
+
+.grid-container {
+  border-radius: 10px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 25px;
+  background-color: white;
+  margin: 10% 30%;
+}
+
+.grid-item {
+  background-color: salmon;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+}
+
+input{
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#tombol{
+    background-color: white;
+    color: salmon;
+    border: none;
+    margin-left: 80px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 20px;
+    padding: 5px 20px;
+}
